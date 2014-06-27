@@ -51,3 +51,5 @@ gem 'bootstrap-sass' , '~> 3.1.1'
 gem 'kaminari'
 
 gem 'simple_form'
+
+gem 'devise'
