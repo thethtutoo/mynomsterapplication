@@ -52,4 +52,4 @@ gem 'kaminari'
 
 gem 'simple_form'
 
-gem 'devise'
+gem 'devise' , '>= 3.2.4'
